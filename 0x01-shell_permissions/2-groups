@@ -1,2 +1,2 @@
-#!/bib/bash 
-chgrp
+#!/bin/bash
+Id -Gn
