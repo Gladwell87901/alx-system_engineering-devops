@@ -10,11 +10,16 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Search Pattern:
+~MSle0~/bin
+
 # Command Line History (newest to oldest):
 :wq
-|2,0,1677873581,,"wq"
+|2,0,1678129694,,"wq"
 
 # Search String History (newest to oldest):
+?/bin/bash
+|2,1,1678129687,47,"bin/bash"
 
 # Expression History (newest to oldest):
 
@@ -25,34 +30,64 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.git/MERGE_MSG
-|4,48,1,0,1677873581,"~/.git/MERGE_MSG"
-'1  1  58  ~/alx-low_level_programming/README.md
-|4,49,1,58,1677854173,"~/alx-low_level_programming/README.md"
-'2  4  7  ~/alx-low_level_programming/0x00-hello_world/push
-|4,50,4,7,1677852857,"~/alx-low_level_programming/0x00-hello_world/push"
-'3  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
-|4,51,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
-'4  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,52,2,17,1677852520,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
-'5  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,53,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
-'6  2  49  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,54,2,49,1677706585,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
-'7  2  29  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13
-|4,55,2,29,1677706473,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13"
-'8  2  21  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal
-|4,56,2,21,1677706375,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal"
-'9  2  19  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/13-print_float
-|4,57,2,19,1677706280,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/13-print_float"
+'0  19  3  ~/alx-low_level_programming/Betty/betty
+|4,48,19,3,1678129694,"~/alx-low_level_programming/Betty/betty"
+'1  45  0  ~/.git/COMMIT_EDITMSG
+|4,49,45,0,1677874228,"~/.git/COMMIT_EDITMSG"
+'2  1  0  ~/.git/MERGE_MSG
+|4,50,1,0,1677873581,"~/.git/MERGE_MSG"
+'3  1  58  ~/alx-low_level_programming/README.md
+|4,51,1,58,1677854173,"~/alx-low_level_programming/README.md"
+'4  4  7  ~/alx-low_level_programming/0x00-hello_world/push
+|4,52,4,7,1677852857,"~/alx-low_level_programming/0x00-hello_world/push"
+'5  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,53,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+'6  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
+|4,54,2,17,1677852520,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
+'7  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
+|4,55,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
+'8  2  49  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
+|4,56,2,49,1677706585,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
+'9  2  29  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13
+|4,57,2,29,1677706473,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13"
 
 # Jumplist (newest first):
+-'  19  3  ~/alx-low_level_programming/Betty/betty
+|4,39,19,3,1678129694,"~/alx-low_level_programming/Betty/betty"
+-'  1  0  ~/alx-low_level_programming/Betty/betty
+|4,39,1,0,1678129676,"~/alx-low_level_programming/Betty/betty"
+-'  45  0  ~/.git/COMMIT_EDITMSG
+|4,39,45,0,1677874228,"~/.git/COMMIT_EDITMSG"
+-'  45  0  ~/.git/COMMIT_EDITMSG
+|4,39,45,0,1677874228,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1677874149,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1677874149,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1677873581,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1677873581,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1677873581,"~/.git/MERGE_MSG"
 -'  1  0  ~/.git/MERGE_MSG
 |4,39,1,0,1677873581,"~/.git/MERGE_MSG"
 -'  1  58  ~/alx-low_level_programming/README.md
 |4,39,1,58,1677854173,"~/alx-low_level_programming/README.md"
 -'  1  58  ~/alx-low_level_programming/README.md
 |4,39,1,58,1677854173,"~/alx-low_level_programming/README.md"
+-'  1  58  ~/alx-low_level_programming/README.md
+|4,39,1,58,1677854173,"~/alx-low_level_programming/README.md"
+-'  1  58  ~/alx-low_level_programming/README.md
+|4,39,1,58,1677854173,"~/alx-low_level_programming/README.md"
+-'  1  58  ~/alx-low_level_programming/README.md
+|4,39,1,58,1677854173,"~/alx-low_level_programming/README.md"
+-'  1  58  ~/alx-low_level_programming/README.md
+|4,39,1,58,1677854173,"~/alx-low_level_programming/README.md"
+-'  1  58  ~/alx-low_level_programming/README.md
+|4,39,1,58,1677854173,"~/alx-low_level_programming/README.md"
+-'  1  58  ~/alx-low_level_programming/README.md
+|4,39,1,58,1677854173,"~/alx-low_level_programming/README.md"
 -'  4  7  ~/alx-low_level_programming/0x00-hello_world/push
 |4,39,4,7,1677852857,"~/alx-low_level_programming/0x00-hello_world/push"
 -'  4  7  ~/alx-low_level_programming/0x00-hello_world/push
@@ -61,6 +96,54 @@
 |4,39,4,7,1677852857,"~/alx-low_level_programming/0x00-hello_world/push"
 -'  4  7  ~/alx-low_level_programming/0x00-hello_world/push
 |4,39,4,7,1677852857,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  4  7  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,4,7,1677852857,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  4  7  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,4,7,1677852857,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  4  7  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,4,7,1677852857,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  4  7  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,4,7,1677852857,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  4  7  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,4,7,1677852857,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  4  7  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,4,7,1677852857,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  4  7  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,4,7,1677852857,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  4  7  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,4,7,1677852857,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  4  7  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,4,7,1677852857,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  4  7  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,4,7,1677852857,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  4  7  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,4,7,1677852857,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  4  7  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,4,7,1677852857,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,1,0,1677852748,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,1,0,1677852748,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,1,0,1677852748,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,1,0,1677852748,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,1,0,1677852748,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,1,0,1677852748,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,1,0,1677852748,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,1,0,1677852748,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,1,0,1677852748,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,1,0,1677852748,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,1,0,1677852748,"~/alx-low_level_programming/0x00-hello_world/push"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/push
+|4,39,1,0,1677852748,"~/alx-low_level_programming/0x00-hello_world/push"
 -'  1  0  ~/alx-low_level_programming/0x00-hello_world/push
 |4,39,1,0,1677852748,"~/alx-low_level_programming/0x00-hello_world/push"
 -'  1  0  ~/alx-low_level_programming/0x00-hello_world/push
@@ -85,6 +168,54 @@
 |4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
 -'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
 |4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  18  ~/alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,18,1677852717,"~/alx-low_level_programming/0x00-hello_world/README.md"
 -'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
 |4,39,2,17,1677852520,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
 -'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
@@ -117,138 +248,26 @@
 |4,39,2,17,1677852520,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
 -'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
 |4,39,2,17,1677852520,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,1,0,1677852424,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,1,0,1677852424,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,1,0,1677852424,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,1,0,1677852424,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,1,0,1677852424,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,1,0,1677852424,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,1,0,1677852424,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,1,0,1677852424,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,1,0,1677852424,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,1,0,1677852424,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,1,0,1677852424,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,1,0,1677852424,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,1,0,1677852424,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,1,0,1677852424,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,1,0,1677852424,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-|4,39,1,0,1677852424,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  2  121  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,2,121,1677706764,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,1,0,1677706631,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,1,0,1677706631,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,1,0,1677706631,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,1,0,1677706631,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,1,0,1677706631,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,1,0,1677706631,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,1,0,1677706631,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,1,0,1677706631,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,1,0,1677706631,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,1,0,1677706631,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,1,0,1677706631,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,1,0,1677706631,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,1,0,1677706631,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,1,0,1677706631,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,1,0,1677706631,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,1,0,1677706631,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
--'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir
-|4,39,1,0,1677706631,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-water_and_stir"
+-'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
+|4,39,2,17,1677852520,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
+-'  2  17  ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
+|4,39,2,17,1677852520,"~/alx-low_level_programming/0x00-hello_world/0-preprocessor"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-low_level_programming/Betty/betty
+	*	1678129692	0
+	"	19	3
+	^	19	4
+	.	19	4
+	+	19	4
+
+> ~/.git/COMMIT_EDITMSG
+	*	1677874222	0
+	"	45	0
+	^	45	0
+	.	1	3
+	+	1	3
 
 > ~/.git/MERGE_MSG
 	*	1677873579	0
